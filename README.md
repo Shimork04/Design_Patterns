@@ -47,17 +47,3 @@ This application utilizes the following design patterns:
 6. **Composite Pattern**:
    - **Payment**: Serves as an abstract base class for different payment methods, allowing clients to treat individual payment objects and compositions uniformly.
 
-## Getting Started
-
-### Prerequisites
-
-- Java Development Kit (JDK) 8 or higher
-- A terminal or command prompt
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-   cd fintech
