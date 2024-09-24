@@ -8,11 +8,6 @@ The Fintech Payment Aggregator is a demonstration application designed to showca
 
 - [Features](#features)
 - [Design Patterns](#design-patterns)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Code Structure](#code-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
